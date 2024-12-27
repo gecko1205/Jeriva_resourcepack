@@ -1,3 +1,6 @@
 {
     "reward": {"sounds":[{"name": "jrv:reward", "stream": false}]},
-    "item/magnet/use": {"sounds":[{"name": "jrv:item/magnet/use", "stream": false}]}}
+    "item/magnet/use": {"sounds":[{"name": "jrv:item/magnet/use", "stream": false}]},
+    "item/adrenaline_syringe/heartbeat": {"sounds":[{"name": "jrv:item/adrenaline_syringe/heartbeat", "stream": true}]},
+    "item/adrenaline_syringe/flesh": {"sounds":[{"name": "jrv:item/adrenaline_syringe/flesh", "stream": false}]}
+}

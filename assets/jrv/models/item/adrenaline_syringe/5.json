@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "jrv:item/adrenaline_syringe/5"
+	}
+}

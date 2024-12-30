@@ -1,5 +1,6 @@
 {
     "core/reward": {"sounds":[{"name": "jrv:core/reward", "stream": false}]},
+    "core/player/use_totem": {"sounds":[{"name": "jrv:core/player/use_totem", "stream": false}]},
     "item/magnet/use": {"sounds":[{"name": "jrv:item/magnet/use", "stream": false}]},
     "item/adrenaline_syringe/heartbeat": {"sounds":[{"name": "jrv:item/adrenaline_syringe/heartbeat", "stream": true}]},
     "item/adrenaline_syringe/flesh": {"sounds":[{"name": "jrv:item/adrenaline_syringe/flesh", "stream": false}]}

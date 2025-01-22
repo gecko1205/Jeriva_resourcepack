@@ -1,6 +1,9 @@
 {
     "jrv.test": "%s recebeu o item %s por completar um objetivo.",
     "jrv.core.item.totem_of_undying.use_to_activate": "Use para ativar",
+    "jrv.core.item.totem_of_undying.consumes_experience": "Consome %s níveis de experiência",
+    "jrv.core.item.totem_of_undying.not_enough_levels": "São necessários %s níveis de experiência",
+    "jrv.core.item.totem_of_undying.totem_activated": "Totem ativado",
     "jrv.enchantment.vampirism": "Vampirismo",
     "jrv.item.adrenaline_syringe": "Seringa de Adrenalina",
     "jrv.item.adrenaline_syringe.recharge_to_use": "Recarregue para usar",

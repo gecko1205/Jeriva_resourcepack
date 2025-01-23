@@ -13,6 +13,7 @@
     "jrv.item.apocalypse_saddle.error.ground": "Stand on the ground to use",
     "jrv.item.apocalypse_saddle.error.combat": "Cannot be used in combat",
     "jrv.item.apocalypse_saddle.error.space": "More space is required to use",
+    "jrv.item.bloody_sword": "Bloody Sword",
     "jrv.item.building_wand": "Building Wand",
     "jrv.item.building_wand.one_block_remaining": "1 block remaining",
     "jrv.item.building_wand.blocks_remaining": "%s blocks remaining",

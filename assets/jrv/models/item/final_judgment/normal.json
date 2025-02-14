@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "jrv:item/bloody_sword/normal"
+		"layer0": "jrv:item/final_judgment/normal"
 	}
 }

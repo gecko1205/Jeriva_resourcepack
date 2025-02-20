@@ -1,9 +1,12 @@
 {
-    "jrv.test": "%s received the item %s for completing an objective.",
+    "death.attack.toxicity": "%s succumbed to the toxic environment",
+    "jrv.announce.item": "%s received the item %s for completing an objective.",
     "jrv.core.item.totem_of_undying.use_to_activate": "Use to activate",
     "jrv.core.item.totem_of_undying.consumes_experience": "Consumes %s experience levels",
     "jrv.core.item.totem_of_undying.not_enough_levels": "%s experience levels required",
     "jrv.core.item.totem_of_undying.totem_activated": "Totem activated",
+    "jrv.core.item.elytra.enabled": "Elytra enabled",
+    "jrv.core.item.elytra.disabled": "Elytra disabled",
     "jrv.enchantment.hematophagy": "Hematophagy",
     "jrv.item.adrenaline_syringe": "Adrenaline Syringe",
     "jrv.item.adrenaline_syringe.recharge_to_use": "Recharge to use",
